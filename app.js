@@ -1,5 +1,10 @@
 class Casino {
-    // Write code here
+    constructor(name, timePlayed) {
+    this.timePlayed = timePlayed
+    this.name = name
+        return playGame(betAmount = math.random(
+        ))
+    }
 };
 
 // TESTS
